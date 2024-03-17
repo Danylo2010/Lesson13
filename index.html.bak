@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Lesson13</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>	
+		<!-- Шапка header -->
+		<header class="header">
+		<img class="header__img" src='./images/fox2.png' alt="Логотип Лисиця">
+		<h1 class="header__title">ПУСТЕЛЬНА<br> ЛИСИЦЯ<br> ФЕНЬОК</h1>
+		</header>
+		<!-- Кінець header -->
+		<!-- Основний контент -->
+		<main>
+		<section class="s-info">
+			<img src="./images/2fox.jpg">
+			<div class="s-info__content">
+				<p class="s-info__text"><span>Маленька лисиця феньок може підстрибувати на 120 см.</span></p>
+				<p class="s-info__text"><span>Феньокі живуть в норах з великою кількістю таємних ходів, які викопують самі.</span></p>
+				<p class="s-info__text"><span>Найвідоміший приручений феньок - це лис в романі Антуана де Сент-Екзюпері "Маленький принц".</span></p>
+			</div>
+		</section>
+		</main>
+	</body>
+</html>	
